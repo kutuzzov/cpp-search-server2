@@ -10,6 +10,7 @@
 
 #include "document.h"
 #include "string_processing.h"
+#include "log_duration.h"
 
 using namespace std::string_literals;
 
